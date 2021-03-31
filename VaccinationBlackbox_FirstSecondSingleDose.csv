@@ -1,0 +1,66 @@
+Description,Value,Population,FirstDose,PercentageFirstDose,SecondDose,PercentageSecondDose,SingleDose,PercentageSingleDose
+FirstDoseDelta,39724,,,,,
+SecondDoseDelta,29026,,,,,
+SingleDoseDelta,1623,,,,,
+FirstDoseDelivered,1499135,,,,,
+SecondDoseDelivered,1143335,,,,,
+TotalSingleDoseDelivered,62985,,,,,
+TotalVaccineDosesDelivered,2705455,,,,,
+FirstDoseDistributed,1720473,,,,,
+FirstDosePercentVaccinated,28.458,,,,,
+SecondDoseCumulative,897129,,,,,
+SecondDosePercentVaccinated,14.839,,,,,
+SingleDoseDistributed,72322,,,,,
+SingleDosePercentVaccinated,1.196,,,,,
+FirstSecondSingleDistributed,2689924,,,,,
+FirstSecondSinglePercentVaccinated,44.493,,,,,
+VaxCompletedDistributed,969451,,,,,
+FullyVaxCumulativePercentVaccinated,16.035,,,,,
+Allegany,,,16780,23.83,9773,13.879,625,0.888
+Anne Arundel,,,159025,27.454,83383,14.395,7903,1.364
+Baltimore,,,247894,29.962,136322,16.477,9135,1.104
+Baltimore City,,,142531,24.016,76142,12.83,5619,0.947
+Calvert,,,25847,27.935,14676,15.862,559,0.604
+Caroline,,,8162,24.433,4867,14.569,517,1.548
+Carroll,,,48840,28.994,27078,16.075,2686,1.595
+Cecil,,,22860,22.225,12491,12.144,178,0.173
+Charles,,,38046,23.304,17130,10.493,1051,0.644
+Dorchester,,,8442,26.44,4599,14.404,885,2.772
+Frederick,,,71589,27.582,39874,15.363,3833,1.477
+Garrett,,,7692,26.511,4909,16.919,172,0.593
+Harford,,,71566,28.017,39065,15.293,1916,0.75
+Howard,,,112237,34.461,60499,18.576,4978,1.528
+Kent,,,6780,34.909,4195,21.599,138,0.711
+Montgomery,,,319729,30.43,166062,15.805,13277,1.264
+Prince George's,,,187711,20.643,80150,8.814,10833,1.191
+Queen Anne's,,,15077,29.926,8204,13.923,578,1.147
+St. Mary's,,,29091,25.629,16310,14.369,465,0.41
+Somerset,,,5097,19.898,3010,11.75,228,0.89
+Talbot,,,13865,37.291,7851,21.116,900,2.421
+Washington,,,32338,21.409,21030,13.923,1475,0.977
+Wicomico,,,27535,26.576,16097,15.536,667,0.644
+Worcester,,,18883,36.122,10866,20.786,472,0.903
+Unknown County,,,82856,,32546,,3232,
+Female,,,992076,,550398,,38898,
+Male,,,705296,,343129,,32658,
+Unknown Gender,,,23101,,3602,,766,
+American Indian or Alaska Native,,,11810,,5504,,463,
+Asian,,,113831,,53745,,3995,
+Black or African American,,,374503,,172195,,17258,
+Native Hawaiian or Other Pacific Islander,,,3551,,1687,,142,
+White,,,1039606,,594955,,41401,
+Other Race,,,91636,,43050,,3809,
+Unknown Race,,,85536,,25993,,5254,
+Hispanic or Latino,,,82551,,33068,,4331,
+Not Hispanic or Latino,,,1541487,,833702,,63527,
+Unknown Ethnicity,,,96435,,30359,,4464,
+0-9,,,0,,0,,0,
+10-19,,,19606,,4696.0,,597.0,
+20-29,,,147967,,70750.0,,5712.0,
+30-39,,,213644,,110036.0,,8411.0,
+40-49,,,223529,,112539.0,,9488.0,
+50-59,,,271549,,126111.0,,12645.0,
+60-69,,,377427,,166862.0,,20923.0,
+70-79,,,301110,,189882.0,,11223.0,
+80+,,,157641,,116253.0,,3323.0,
+Not Available,,,8000,,0,,0,

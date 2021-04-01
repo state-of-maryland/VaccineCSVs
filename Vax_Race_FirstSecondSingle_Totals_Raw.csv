@@ -1,8 +1,8 @@
 Race,FirstDose,SecondDose,SingleDose,CombinedTotalDoses,FullyVaccinated
-American Indian or Alaska Native                  ,6425,2880,305,9610,3185
-Asian                                             ,114979,54473,3905,173357,58378
-Black or African American                         ,335341,152418,15791,503550,168209
-Native Hawaiian or Other Pacific Islander         ,3159,1525,144,4828,1669
-Other Race                                        ,252393,133530,9904,395827,143434
-Unknown Race,50417,1286,4641,56344,5927
-White                                             ,957759,551017,37632,1546408,588649
+American Indian or Alaska Native                  ,6602,3010,323,9935,3333
+Asian                                             ,117746,56456,4133,178335,60589
+Black or African American                         ,343153,159436,16450,519039,175886
+Native Hawaiian or Other Pacific Islander         ,3237,1579,155,4971,1734
+Other Race                                        ,256798,137032,10782,404612,147814
+Unknown Race,52249,1295,5481,59025,6776
+White                                             ,975184,569043,40032,1584259,609075

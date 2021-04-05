@@ -1,66 +1,66 @@
 Description,Value,Population,FirstDose,PercentageFirstDose,SecondDose,PercentageSecondDose,SingleDose,PercentageSingleDose
-FirstDoseDelta,27069,,,,,
-SecondDoseDelta,23848,,,,,
-SingleDoseDelta,4475,,,,,
+FirstDoseDelta,12586,,,,,
+SecondDoseDelta,9261,,,,,
+SingleDoseDelta,1066,,,,,
 FirstDoseDelivered,1661395,,,,,
 SecondDoseDelivered,1285455,,,,,
 TotalSingleDoseDelivered,94100,,,,,
 TotalVaccineDosesDelivered,3040950,,,,,
-FirstDoseDistributed,1857984,,,,,
-FirstDosePercentVaccinated,30.732,,,,,
-SecondDoseCumulative,1020855,,,,,
-SecondDosePercentVaccinated,16.886,,,,,
-SingleDoseDistributed,92075,,,,,
-SingleDosePercentVaccinated,1.523,,,,,
-FirstSecondSingleDistributed,2970914,,,,,
-FirstSecondSinglePercentVaccinated,49.141,,,,,
-VaxCompletedDistributed,1112930,,,,,
-FullyVaxCumulativePercentVaccinated,18.409,,,,,
-Allegany,,,18707,26.566,11006,15.63,767,1.089
-Anne Arundel,,,171245,29.564,94875,16.379,9024,1.558
-Baltimore,,,264047,31.914,154473,18.67,10730,1.297
-Baltimore City,,,153856,25.924,86906,14.643,6217,1.048
-Calvert,,,27785,30.03,16023,17.317,866,0.936
-Caroline,,,8570,25.654,5742,17.189,670,2.006
-Carroll,,,52675,31.271,30445,18.074,3487,2.07
-Cecil,,,23984,23.318,14567,14.163,491,0.477
-Charles,,,41202,25.238,19005,11.641,1215,0.744
-Dorchester,,,8764,27.448,5202,16.292,1052,3.295
-Frederick,,,78574,30.274,46006,17.725,6421,2.474
-Garrett,,,8201,28.266,5097,17.567,377,1.299
-Harford,,,75714,29.641,44628,17.471,2738,1.072
-Howard,,,121601,37.336,68995,21.184,5961,1.83
-Kent,,,7091,36.51,4382,22.562,195,1.004
-Montgomery,,,350596,33.368,187882,17.882,17440,1.66
-Prince George's,,,203502,22.379,93684,10.303,12160,1.337
-Queen Anne's,,,16378,32.508,9206,15.844,880,1.747
-St. Mary's,,,30790,27.125,18713,16.486,748,0.659
-Somerset,,,5374,20.979,3327,12.988,305,1.191
-Talbot,,,14533,39.087,8972,24.131,1201,3.23
-Washington,,,33895,22.44,23932,15.844,3259,2.158
-Wicomico,,,29192,28.175,17690,17.074,899,0.868
-Worcester,,,19894,38.056,12032,23.016,578,1.106
-Unknown County,,,91814,,38065,,4394,
-Female,,,1064221,,619014,,49119,
-Male,,,769960,,397686,,41881,
-Unknown Gender,,,23803,,4155,,1075,
-American Indian or Alaska Native,,,12958,,6401,,564,
-Asian,,,125884,,61356,,4953,
-Black or African American,,,406499,,200813,,20412,
-Native Hawaiian or Other Pacific Islander,,,3916,,1926,,180,
-White,,,1116130,,670147,,53037,
-Other Race,,,101660,,48988,,4677,
-Unknown Race,,,90937,,31224,,8252,
-Hispanic or Latino,,,93460,,38890,,5411,
-Not Hispanic or Latino,,,1662022,,947428,,79035,
-Unknown Ethnicity,,,102502,,34537,,7629,
+FirstDoseDistributed,1870570,,,,,
+FirstDosePercentVaccinated,30.941,,,,,
+SecondDoseCumulative,1030116,,,,,
+SecondDosePercentVaccinated,17.039,,,,,
+SingleDoseDistributed,93141,,,,,
+SingleDosePercentVaccinated,1.541,,,,,
+FirstSecondSingleDistributed,2993827,,,,,
+FirstSecondSinglePercentVaccinated,49.52,,,,,
+VaxCompletedDistributed,1123257,,,,,
+FullyVaxCumulativePercentVaccinated,18.579,,,,,
+Allegany,,,18922,26.872,11012,15.638,779,1.106
+Anne Arundel,,,172765,29.826,96119,16.594,9100,1.571
+Baltimore,,,265181,32.051,155105,18.747,10873,1.314
+Baltimore City,,,154327,26.003,87209,14.694,6269,1.056
+Calvert,,,27882,30.135,16137,17.441,884,0.955
+Caroline,,,8578,25.678,5747,17.203,673,2.015
+Carroll,,,53596,31.818,30568,18.147,3467,2.058
+Cecil,,,24022,23.355,14580,14.175,499,0.485
+Charles,,,41727,25.559,19204,11.763,1238,0.758
+Dorchester,,,8778,27.492,5204,16.299,1054,3.301
+Frederick,,,79056,30.459,46298,17.838,6466,2.491
+Garrett,,,8209,28.293,5164,17.798,377,1.299
+Harford,,,75992,29.749,44787,17.533,2860,1.12
+Howard,,,122312,37.555,70013,21.497,6045,1.856
+Kent,,,7089,36.5,4384,22.572,196,1.009
+Montgomery,,,353793,33.673,189818,18.066,17570,1.672
+Prince George's,,,205245,22.571,96131,10.572,12414,1.365
+Queen Anne's,,,16434,32.619,9243,15.857,887,1.761
+St. Mary's,,,30812,27.145,18750,16.518,752,0.662
+Somerset,,,5377,20.991,3331,13.004,305,1.191
+Talbot,,,14759,39.695,9003,24.214,1207,3.246
+Washington,,,33938,22.468,23952,15.857,3270,2.165
+Wicomico,,,29205,28.188,17708,17.091,899,0.868
+Worcester,,,19904,38.075,12080,23.108,578,1.106
+Unknown County,,,92667,,38569,,4479,
+Female,,,1070929,,624349,,49697,
+Male,,,775836,,401600,,42368,
+Unknown Gender,,,23805,,4167,,1076,
+American Indian or Alaska Native,,,13065,,6478,,567,
+Asian,,,127312,,61959,,5038,
+Black or African American,,,409590,,203614,,20784,
+Native Hawaiian or Other Pacific Islander,,,3952,,1940,,181,
+White,,,1122635,,674428,,53751,
+Other Race,,,102987,,49447,,4747,
+Unknown Race,,,91029,,32250,,8073,
+Hispanic or Latino,,,94574,,39359,,5541,
+Not Hispanic or Latino,,,1673057,,955609,,80191,
+Unknown Ethnicity,,,102939,,35148,,7409,
 0-9,,,0,,0,,0,
-10-19,,,25051,,5934.0,,1026.0,
-20-29,,,165119,,79910.0,,7741.0,
-30-39,,,235597,,123204.0,,11478.0,
-40-49,,,246638,,125978.0,,13017.0,
-50-59,,,302136,,143337.0,,17853.0,
-60-69,,,407803,,200396.0,,24847.0,
-70-79,,,307773,,217583.0,,12314.0,
-80+,,,159867,,124513.0,,3799.0,
+10-19,,,25553,,6103.0,,1051.0,
+20-29,,,166659,,80651.0,,7884.0,
+30-39,,,237578,,124241.0,,11663.0,
+40-49,,,248780,,127200.0,,13213.0,
+50-59,,,305071,,144781.0,,18087.0,
+60-69,,,410009,,202837.0,,25023.0,
+70-79,,,308878,,219232.0,,12380.0,
+80+,,,160042,,125071.0,,3840.0,
 Not Available,,,8000,,0,,0,

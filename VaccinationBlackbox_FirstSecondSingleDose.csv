@@ -1,21 +1,21 @@
 Description,Value,Population,FirstDose,PercentageFirstDose,SecondDose,PercentageSecondDose,SingleDose,PercentageSingleDose,AtLeastOneVaccine,PercentAtLeastOneVaccine,FullyVaccinated,PercentFullyVaccinated
-FirstDoseDelta,166,,,,,
-SecondDoseDelta,338,,,,,
+FirstDoseDelta,161,,,,,
+SecondDoseDelta,284,,,,,
 SingleDoseDelta,1,,,,,
 FirstDoseDelivered,0,,,,,
 SecondDoseDelivered,0,,,,,
 TotalSingleDoseDelivered,0,,,,,
 TotalVaccineDosesDelivered,8426050,,,,,
-FirstDoseDistributed,3382580,,,,,
-FirstDosePercentVaccinated,55.95,,,,,
-SecondDoseCumulative,2997917,,,,,
-SecondDosePercentVaccinated,49.588,,,,,
-SingleDoseDistributed,252085,,,,,
+FirstDoseDistributed,3382741,,,,,
+FirstDosePercentVaccinated,55.953,,,,,
+SecondDoseCumulative,2998201,,,,,
+SecondDosePercentVaccinated,49.592,,,,,
+SingleDoseDistributed,252086,,,,,
 SingleDosePercentVaccinated,4.17,,,,,
-FirstSecondSingleDistributed,6632582,,,,,
-FirstSecondSinglePercentVaccinated,109.708,,,,,
-VaxCompletedDistributed,3250002,,,,,
-FullyVaxCumulativePercentVaccinated,53.757,,,,,
+FirstSecondSingleDistributed,6633028,,,,,
+FirstSecondSinglePercentVaccinated,109.715,,,,,
+VaxCompletedDistributed,3250287,,,,,
+FullyVaxCumulativePercentVaccinated,53.762,,,,,
 EighteenPlusAtLeastOneDose,73.1,,,,,
 Allegany,,,26238,37.261,23862,33.887,2826,4.013,29064.0,41.275,26688.0,37.9
 Anne Arundel,,,304301,52.535,272659,47.072,21105,3.644,325406.0,56.179,293764.0,50.716
@@ -41,7 +41,7 @@ Talbot,,,19716,53.027,18051,48.549,2724,7.326,22440.0,60.353,20775.0,55.875
 Washington,,,56082,37.128,50429,33.386,9902,6.555,65984.0,43.684,60331.0,39.941
 Wicomico,,,40403,38.996,36746,35.466,3393,3.275,43796.0,42.27,40139.0,38.741
 Worcester,,,27161,51.957,24646,47.146,2277,4.356,29438.0,56.313,26923.0,51.502
-Unknown County,,,279077,,227678,,20545,,299622.0,,248223.0,
+Unknown County,,,279238,,227962,,20546,,299784.0,,248508.0,
 Female,,,1784188,,1591702,,119575,
 Male,,,1464853,,1288580,,127175,
 Unknown Gender,,,23487,,21261,,2174,
@@ -55,14 +55,14 @@ Unknown Race,,,190062,,165488,,24521,
 Hispanic or Latino,,,282061,,227428,,20270,
 Not Hispanic or Latino,,,2792539,,2508881,,206508,
 Unknown Ethnicity,,,197928,,165234,,22146,
-0-9,,,0,,0,,0,
-10-19,,,286650,,223742,,6276,
-20-29,,,395281,,336172,,31617,
-30-39,,,479540,,419068,,39382,
-40-49,,,480007,,426353,,41774,
-50-59,,,554884,,499285,,54919,
-60-69,,,539416,,497433,,47249,
-70-79,,,351392,,327795,,20331,
-80+,,,177358,,163695,,7376,
-Not Available,,,8000,,8000,,0,
-Federal Entities,,,110052,,96374,,3161,
+0-9,,,0,,0,,0,,,,0,,0
+10-19,,,286650,,223742,,6276,,292926,,230018
+20-29,,,395281,,336172,,31617,,426898,,367789
+30-39,,,479540,,419068,,39382,,518922,,458450
+40-49,,,480007,,426353,,41774,,521781,,468127
+50-59,,,554884,,499285,,54919,,609803,,554204
+60-69,,,539416,,497433,,47249,,586665,,544682
+70-79,,,351392,,327795,,20331,,371723,,348126
+80+,,,177358,,163695,,7376,,184734,,171071
+Not Available,,,8000,,8000,,0,,8000,,0
+Federal Entities,,,110213,,96658,,3162,,113375,,99820

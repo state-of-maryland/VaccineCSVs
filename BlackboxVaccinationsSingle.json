@@ -1,7 +1,7 @@
 [
     {
         "Description": "FirstDoseDelta",
-        "Value": "166",
+        "Value": "161",
         "Population": "",
         "FirstDose": "",
         "PercentageFirstDose": "",
@@ -16,7 +16,7 @@
     },
     {
         "Description": "SecondDoseDelta",
-        "Value": "338",
+        "Value": "284",
         "Population": "",
         "FirstDose": "",
         "PercentageFirstDose": "",
@@ -106,7 +106,7 @@
     },
     {
         "Description": "FirstDoseDistributed",
-        "Value": "3382580",
+        "Value": "3382741",
         "Population": "",
         "FirstDose": "",
         "PercentageFirstDose": "",
@@ -121,7 +121,7 @@
     },
     {
         "Description": "FirstDosePercentVaccinated",
-        "Value": "55.95",
+        "Value": "55.953",
         "Population": "",
         "FirstDose": "",
         "PercentageFirstDose": "",
@@ -136,7 +136,7 @@
     },
     {
         "Description": "SecondDoseCumulative",
-        "Value": "2997917",
+        "Value": "2998201",
         "Population": "",
         "FirstDose": "",
         "PercentageFirstDose": "",
@@ -151,7 +151,7 @@
     },
     {
         "Description": "SecondDosePercentVaccinated",
-        "Value": "49.588",
+        "Value": "49.592",
         "Population": "",
         "FirstDose": "",
         "PercentageFirstDose": "",
@@ -166,7 +166,7 @@
     },
     {
         "Description": "SingleDoseDistributed",
-        "Value": "252085",
+        "Value": "252086",
         "Population": "",
         "FirstDose": "",
         "PercentageFirstDose": "",
@@ -196,7 +196,7 @@
     },
     {
         "Description": "FirstSecondSingleDistributed",
-        "Value": "6632582",
+        "Value": "6633028",
         "Population": "",
         "FirstDose": "",
         "PercentageFirstDose": "",
@@ -211,7 +211,7 @@
     },
     {
         "Description": "FirstSecondSinglePercentVaccinated",
-        "Value": "109.708",
+        "Value": "109.715",
         "Population": "",
         "FirstDose": "",
         "PercentageFirstDose": "",
@@ -226,7 +226,7 @@
     },
     {
         "Description": "VaxCompletedDistributed",
-        "Value": "3250002",
+        "Value": "3250287",
         "Population": "",
         "FirstDose": "",
         "PercentageFirstDose": "",
@@ -241,7 +241,7 @@
     },
     {
         "Description": "FullyVaxCumulativePercentVaccinated",
-        "Value": "53.757",
+        "Value": "53.762",
         "Population": "",
         "FirstDose": "",
         "PercentageFirstDose": "",
@@ -633,15 +633,15 @@
         "Description": "Unknown County",
         "Value": "",
         "Population": "",
-        "FirstDose": "279077",
+        "FirstDose": "279238",
         "PercentageFirstDose": "",
-        "SecondDose": "227678",
+        "SecondDose": "227962",
         "PercentageSecondDose": "",
-        "SingleDose": "20545",
+        "SingleDose": "20546",
         "PercentageSingleDose": "",
-        "AtLeastOneVaccine": "299622.0",
+        "AtLeastOneVaccine": "299784.0",
         "PercentAtLeastOneVaccine": "",
-        "FullyVaccinated": "248223.0",
+        "FullyVaccinated": "248508.0",
         "PercentFullyVaccinated": ""
     },
     {
@@ -993,11 +993,11 @@
         "Description": "Federal Entities",
         "Value": "",
         "Population": "",
-        "FirstDose": "110052",
+        "FirstDose": "110213",
         "PercentageFirstDose": "",
-        "SecondDose": "96374",
+        "SecondDose": "96658",
         "PercentageSecondDose": "",
-        "SingleDose": "3161",
+        "SingleDose": "3162",
         "PercentageSingleDose": "",
         "AtLeastOneVaccine": null,
         "PercentAtLeastOneVaccine": null,

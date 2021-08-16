@@ -1,0 +1,89 @@
+OBJECTID,VACCINATION_DATE,Region,TotalVaccination,CummulativeVaccination
+1,12/13/2020 0:00:00,Eastern Shore                                                              ,1,1
+2,12/14/2020 0:00:00,Baltimore Metropolitan Area                                                ,1,2
+3,12/15/2020 0:00:00,Baltimore Metropolitan Area                                                ,4,7
+4,12/15/2020 0:00:00,National Capital Region                                                    ,1,7
+5,12/16/2020 0:00:00,Baltimore Metropolitan Area                                                ,446,529
+6,12/16/2020 0:00:00,Eastern Shore                                                              ,20,529
+7,12/16/2020 0:00:00,National Capital Region                                                    ,34,529
+8,12/16/2020 0:00:00,Out of State                                                               ,19,529
+9,12/16/2020 0:00:00,Western Maryland                                                           ,3,529
+10,12/17/2020 0:00:00,Baltimore Metropolitan Area                                                ,692,1524
+11,12/17/2020 0:00:00,Eastern Shore                                                              ,149,1524
+12,12/17/2020 0:00:00,National Capital Region                                                    ,91,1524
+13,12/17/2020 0:00:00,Out of State                                                               ,57,1524
+14,12/17/2020 0:00:00,Southern Maryland                                                          ,2,1524
+15,12/17/2020 0:00:00,Western Maryland                                                           ,4,1524
+16,12/18/2020 0:00:00,Baltimore Metropolitan Area                                                ,1212,3966
+17,12/18/2020 0:00:00,Eastern Shore                                                              ,554,3966
+18,12/18/2020 0:00:00,National Capital Region                                                    ,390,3966
+19,12/18/2020 0:00:00,Out of State                                                               ,202,3966
+20,12/18/2020 0:00:00,Southern Maryland                                                          ,11,3966
+21,12/18/2020 0:00:00,Western Maryland                                                           ,73,3966
+22,12/19/2020 0:00:00,Baltimore Metropolitan Area                                                ,313,4675
+23,12/19/2020 0:00:00,Eastern Shore                                                              ,186,4675
+24,12/19/2020 0:00:00,National Capital Region                                                    ,141,4675
+25,12/19/2020 0:00:00,Out of State                                                               ,69,4675
+26,12/20/2020 0:00:00,Baltimore Metropolitan Area                                                ,86,4841
+27,12/20/2020 0:00:00,National Capital Region                                                    ,67,4841
+28,12/20/2020 0:00:00,Out of State                                                               ,13,4841
+29,12/21/2020 0:00:00,Baltimore Metropolitan Area                                                ,1893,8148
+30,12/21/2020 0:00:00,Eastern Shore                                                              ,168,8148
+31,12/21/2020 0:00:00,National Capital Region                                                    ,772,8148
+32,12/21/2020 0:00:00,Out of State                                                               ,260,8148
+33,12/21/2020 0:00:00,Southern Maryland                                                          ,33,8148
+34,12/21/2020 0:00:00,Western Maryland                                                           ,181,8148
+35,12/22/2020 0:00:00,Baltimore Metropolitan Area                                                ,2613,13520
+36,12/22/2020 0:00:00,Eastern Shore                                                              ,338,13520
+37,12/22/2020 0:00:00,National Capital Region                                                    ,1701,13520
+38,12/22/2020 0:00:00,Out of State                                                               ,398,13520
+39,12/22/2020 0:00:00,Southern Maryland                                                          ,46,13520
+40,12/22/2020 0:00:00,Western Maryland                                                           ,276,13520
+41,12/23/2020 0:00:00,Baltimore Metropolitan Area                                                ,2364,18083
+42,12/23/2020 0:00:00,Eastern Shore                                                              ,498,18083
+43,12/23/2020 0:00:00,National Capital Region                                                    ,1065,18083
+44,12/23/2020 0:00:00,Out of State                                                               ,338,18083
+45,12/23/2020 0:00:00,Southern Maryland                                                          ,157,18083
+46,12/23/2020 0:00:00,Western Maryland                                                           ,141,18083
+47,12/24/2020 0:00:00,Baltimore Metropolitan Area                                                ,1509,20412
+48,12/24/2020 0:00:00,Eastern Shore                                                              ,218,20412
+49,12/24/2020 0:00:00,National Capital Region                                                    ,432,20412
+50,12/24/2020 0:00:00,Out of State                                                               ,126,20412
+51,12/24/2020 0:00:00,Southern Maryland                                                          ,38,20412
+52,12/24/2020 0:00:00,Western Maryland                                                           ,6,20412
+53,12/25/2020 0:00:00,Baltimore Metropolitan Area                                                ,360,21285
+54,12/25/2020 0:00:00,Eastern Shore                                                              ,59,21285
+55,12/25/2020 0:00:00,National Capital Region                                                    ,309,21285
+56,12/25/2020 0:00:00,Out of State                                                               ,29,21285
+57,12/25/2020 0:00:00,Southern Maryland                                                          ,115,21285
+58,12/25/2020 0:00:00,Western Maryland                                                           ,1,21285
+59,12/26/2020 0:00:00,Baltimore Metropolitan Area                                                ,880,22712
+60,12/26/2020 0:00:00,Eastern Shore                                                              ,111,22712
+61,12/26/2020 0:00:00,National Capital Region                                                    ,389,22712
+62,12/26/2020 0:00:00,Out of State                                                               ,42,22712
+63,12/26/2020 0:00:00,Southern Maryland                                                          ,3,22712
+64,12/26/2020 0:00:00,Western Maryland                                                           ,2,22712
+65,12/27/2020 0:00:00,Baltimore Metropolitan Area                                                ,497,23640
+66,12/27/2020 0:00:00,Eastern Shore                                                              ,96,23640
+67,12/27/2020 0:00:00,National Capital Region                                                    ,286,23640
+68,12/27/2020 0:00:00,Out of State                                                               ,36,23640
+69,12/27/2020 0:00:00,Southern Maryland                                                          ,2,23640
+70,12/27/2020 0:00:00,Western Maryland                                                           ,11,23640
+71,12/28/2020 0:00:00,Baltimore Metropolitan Area                                                ,4361,30713
+72,12/28/2020 0:00:00,Eastern Shore                                                              ,639,30713
+73,12/28/2020 0:00:00,National Capital Region                                                    ,991,30713
+74,12/28/2020 0:00:00,Out of State                                                               ,482,30713
+75,12/28/2020 0:00:00,Southern Maryland                                                          ,128,30713
+76,12/28/2020 0:00:00,Western Maryland                                                           ,472,30713
+77,12/29/2020 0:00:00,Baltimore Metropolitan Area                                                ,4350,38033
+78,12/29/2020 0:00:00,Eastern Shore                                                              ,933,38033
+79,12/29/2020 0:00:00,National Capital Region                                                    ,903,38033
+80,12/29/2020 0:00:00,Out of State                                                               ,426,38033
+81,12/29/2020 0:00:00,Southern Maryland                                                          ,428,38033
+82,12/29/2020 0:00:00,Western Maryland                                                           ,280,38033
+83,12/30/2020 0:00:00,Baltimore Metropolitan Area                                                ,4367,47011
+84,12/30/2020 0:00:00,Eastern Shore                                                              ,1179,47011
+85,12/30/2020 0:00:00,National Capital Region                                                    ,1780,47011
+86,12/30/2020 0:00:00,Out of State                                                               ,601,47011
+87,12/30/2020 0:00:00,Southern Maryland                                                          ,492,47011
+88,12/30/2020 0:00:00,Western Maryland                                                           ,559,47011

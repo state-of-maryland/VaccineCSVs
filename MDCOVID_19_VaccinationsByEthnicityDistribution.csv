@@ -1,0 +1,51 @@
+OBJECTID,VACCINATION_DATE,EthnicityDescription,TotalVaccination,CummulativeVaccination
+1,12/13/2020 3:00:00,Not Hispanic or Latino                                                     ,1,1
+2,12/14/2020 3:00:00,Not Hispanic or Latino                                                     ,1,2
+3,12/15/2020 3:00:00,Hispanic or Latino                                                         ,1,1
+4,12/15/2020 3:00:00,Not Hispanic or Latino                                                     ,4,6
+5,12/15/2020 3:00:00,Unknown,0,0
+6,12/16/2020 3:00:00,Hispanic or Latino                                                         ,19,20
+7,12/16/2020 3:00:00,Not Hispanic or Latino                                                     ,470,476
+8,12/16/2020 3:00:00,Unknown,33,33
+9,12/17/2020 3:00:00,Hispanic or Latino                                                         ,29,49
+10,12/17/2020 3:00:00,Not Hispanic or Latino                                                     ,917,1393
+11,12/17/2020 3:00:00,Unknown,49,82
+12,12/18/2020 3:00:00,Hispanic or Latino                                                         ,66,115
+13,12/18/2020 3:00:00,Not Hispanic or Latino                                                     ,2267,3660
+14,12/18/2020 3:00:00,Unknown,109,191
+15,12/19/2020 3:00:00,Hispanic or Latino                                                         ,29,144
+16,12/19/2020 3:00:00,Not Hispanic or Latino                                                     ,653,4313
+17,12/19/2020 3:00:00,Unknown,27,218
+18,12/20/2020 3:00:00,Hispanic or Latino                                                         ,5,149
+19,12/20/2020 3:00:00,Not Hispanic or Latino                                                     ,150,4463
+20,12/20/2020 3:00:00,Unknown,11,229
+21,12/21/2020 3:00:00,Hispanic or Latino                                                         ,132,281
+22,12/21/2020 3:00:00,Not Hispanic or Latino                                                     ,2968,7431
+23,12/21/2020 3:00:00,Unknown,207,436
+24,12/22/2020 3:00:00,Hispanic or Latino                                                         ,189,470
+25,12/22/2020 3:00:00,Not Hispanic or Latino                                                     ,3832,11263
+26,12/22/2020 3:00:00,Unknown,1351,1787
+27,12/23/2020 3:00:00,Hispanic or Latino                                                         ,165,635
+28,12/23/2020 3:00:00,Not Hispanic or Latino                                                     ,4034,15297
+29,12/23/2020 3:00:00,Unknown,365,2152
+30,12/24/2020 3:00:00,Hispanic or Latino                                                         ,84,719
+31,12/24/2020 3:00:00,Not Hispanic or Latino                                                     ,2121,17418
+32,12/24/2020 3:00:00,Unknown,124,2276
+33,12/25/2020 3:00:00,Hispanic or Latino                                                         ,20,739
+34,12/25/2020 3:00:00,Not Hispanic or Latino                                                     ,375,17793
+35,12/25/2020 3:00:00,Unknown,478,2754
+36,12/26/2020 3:00:00,Hispanic or Latino                                                         ,31,770
+37,12/26/2020 3:00:00,Not Hispanic or Latino                                                     ,862,18655
+38,12/26/2020 3:00:00,Unknown,534,3288
+39,12/27/2020 3:00:00,Hispanic or Latino                                                         ,39,809
+40,12/27/2020 3:00:00,Not Hispanic or Latino                                                     ,779,19434
+41,12/27/2020 3:00:00,Unknown,110,3398
+42,12/28/2020 3:00:00,Hispanic or Latino                                                         ,233,1042
+43,12/28/2020 3:00:00,Not Hispanic or Latino                                                     ,6510,25944
+44,12/28/2020 3:00:00,Unknown,330,3728
+45,12/29/2020 3:00:00,Hispanic or Latino                                                         ,259,1301
+46,12/29/2020 3:00:00,Not Hispanic or Latino                                                     ,6721,32665
+47,12/29/2020 3:00:00,Unknown,340,4068
+48,12/30/2020 3:00:00,Hispanic or Latino                                                         ,401,1702
+49,12/30/2020 3:00:00,Not Hispanic or Latino                                                     ,8193,40858
+50,12/30/2020 3:00:00,Unknown,384,4452

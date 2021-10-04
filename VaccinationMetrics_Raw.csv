@@ -1,2 +1,2 @@
 Deliv_1,Deliv_2,TotalSingleDoseDelivered,Delivered_Total,FirstDoseCumulative,FirstDosePercentVaccinated,SecondDoseCumulative,SecondDosePercentVaccinated,SingleDoseDistributed,SingleDosePercentVaccinated,FirstSecondSingleDistributed,FirstSecondSinglePercentVaccinated,VaxCompletedDistributed,FullyVaxCumulativePercentVaccinated,FirstDoseDelta,SecondDoseDelta,SingleDoseDelta,EighteenPlusAtLeastOneDose
-0,0,0,10085620,3964287,65.572,3605753,59.642,304269,5.033,7874309,130.247,3910022,64.675,7003,6630,250,83.9
+0,0,0,10086980,3964287,65.572,3605754,59.642,304270,5.033,7874311,130.247,3910024,64.675,0,1,1,84.0

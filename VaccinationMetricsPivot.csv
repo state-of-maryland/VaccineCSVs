@@ -1,11 +1,11 @@
 Metric,Value
-FirstDoseDelta,4330
-SecondDoseDelta,3632
-SingleDoseDelta,252
+FirstDoseDelta,0
+SecondDoseDelta,0
+SingleDoseDelta,0
 FirstDoseDelivered,0
 SecondDoseDelivered,0
 TotalSingleDoseDelivered,0
-TotalVaccineDosesDelivered,10250300
+TotalVaccineDosesDelivered,10251470
 FirstDoseDistributed,3988796
 FirstDosePercentVaccinated,65.978
 SecondDoseCumulative,3627348

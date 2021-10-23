@@ -1,11 +1,11 @@
 Description,Value,Population,FirstDose,PercentageFirstDose,SecondDose,PercentageSecondDose,SingleDose,PercentageSingleDose,AtLeastOneVaccine,PercentAtLeastOneVaccine,FullyVaccinated,PercentFullyVaccinated
-FirstDoseDelta,3731,,,,,
-SecondDoseDelta,3685,,,,,
-SingleDoseDelta,269,,,,,
+FirstDoseDelta,0,,,,,
+SecondDoseDelta,0,,,,,
+SingleDoseDelta,0,,,,,
 FirstDoseDelivered,0,,,,,
 SecondDoseDelivered,0,,,,,
 TotalSingleDoseDelivered,0,,,,,
-TotalVaccineDosesDelivered,10569790,,,,,
+TotalVaccineDosesDelivered,10670070,,,,,
 FirstDoseDistributed,4037375,,,,,
 FirstDosePercentVaccinated,66.781,,,,,
 SecondDoseCumulative,3674580,,,,,
@@ -16,7 +16,7 @@ FirstSecondSingleDistributed,8021010,,,,,
 FirstSecondSinglePercentVaccinated,132.673,,,,,
 VaxCompletedDistributed,3983635,,,,,
 FullyVaxCumulativePercentVaccinated,65.892,,,,,
-EighteenPlusAtLeastOneDose,85.6,,,,,
+EighteenPlusAtLeastOneDose,85.7,,,,,
 Allegany,,,31433,44.639,29027,41.222,3539,5.026,34972.0,49.665,32566.0,46.248
 Anne Arundel,,,359714,62.102,333857,57.638,25248,4.359,384962.0,66.461,359105.0,61.997
 Baltimore,,,509973,61.638,474587,57.361,37218,4.498,547191.0,66.136,511805.0,61.859

@@ -1,22 +1,22 @@
 Description,Value,Population,FirstDose,PercentageFirstDose,SecondDose,PercentageSecondDose,SingleDose,PercentageSingleDose,AtLeastOneVaccine,PercentAtLeastOneVaccine,FullyVaccinated,PercentFullyVaccinated
-FirstDoseDelta,3902,,,,,
-SecondDoseDelta,4806,,,,,
-SingleDoseDelta,300,,,,,
+FirstDoseDelta,4,,,,,
+SecondDoseDelta,11,,,,,
+SingleDoseDelta,2,,,,,
 FirstDoseDelivered,0,,,,,
 SecondDoseDelivered,0,,,,,
 TotalSingleDoseDelivered,0,,,,,
-TotalVaccineDosesDelivered,10994440,,,,,
-FirstDoseDistributed,4082378,,,,,
+TotalVaccineDosesDelivered,11019000,,,,,
+FirstDoseDistributed,4082382,,,,,
 FirstDosePercentVaccinated,67.526,,,,,
-SecondDoseCumulative,3726563,,,,,
+SecondDoseCumulative,3726574,,,,,
 SecondDosePercentVaccinated,61.64,,,,,
-SingleDoseDistributed,313029,,,,,
+SingleDoseDistributed,313031,,,,,
 SingleDosePercentVaccinated,5.178,,,,,
-FirstSecondSingleDistributed,8121970,,,,,
-FirstSecondSinglePercentVaccinated,134.343,,,,,
-VaxCompletedDistributed,4039592,,,,,
+FirstSecondSingleDistributed,8121987,,,,,
+FirstSecondSinglePercentVaccinated,134.344,,,,,
+VaxCompletedDistributed,4039605,,,,,
 FullyVaxCumulativePercentVaccinated,66.818,,,,,
-EighteenPlusAtLeastOneDose,86.5,,,,,
+EighteenPlusAtLeastOneDose,86.6,,,,,
 Allegany,,,31771,45.119,29422,41.783,3573,5.074,35344.0,50.193,32995.0,46.857
 Anne Arundel,,,363078,62.682,338535,58.445,25577,4.416,388655.0,67.098,364112.0,62.861
 Baltimore,,,512306,61.92,478855,57.877,37435,4.525,549741.0,66.444,516290.0,62.401
@@ -41,20 +41,20 @@ Talbot,,,23075,62.061,21634,58.186,3046,8.192,26121.0,70.254,24680.0,66.378
 Washington,,,68549,45.382,64157,42.474,11698,7.745,80247.0,53.126,75855.0,50.219
 Wicomico,,,49750,48.017,46033,44.43,4354,4.202,54104.0,52.219,50387.0,48.632
 Worcester,,,32415,62.007,29916,57.227,2697,5.159,35112.0,67.167,32613.0,62.386
-Unknown County,,,367299,,290283,,38349,,405648.0,,328632.0,
+Unknown County,,,367303,,290294,,38351,,405654.0,,328645.0,
 Female,,,2134194,,1960214,,137076,
 Male,,,1790430,,1629608,,156676,
 Unknown Gender,,,26645,,22085,,2332,
-American Indian or Alaska Native,,,31999,,28423,,1655,
-Asian,,,280251,,262081,,15091,
-Black or African American,,,1053015,,940950,,60202,
-Native Hawaiian or Other Pacific Islander,,,10086,,9120,,647,
-White,,,2013558,,1877760,,172529,
-Other Race,,,386080,,336791,,22869,
-Unknown Race,,,176280,,156782,,23091,
-Hispanic or Latino,,,394089,,343487,,26376,
-Not Hispanic or Latino,,,3345845,,3091979,,246884,
-Unknown Ethnicity,,,211335,,176441,,22824,
+American Indian or Alaska Native,,,31997,,28422,,1654,
+Asian,,,280248,,262079,,15091,
+Black or African American,,,1053055,,940956,,60206,
+Native Hawaiian or Other Pacific Islander,,,10088,,9121,,647,
+White,,,2013604,,1877770,,172532,
+Other Race,,,386042,,336788,,22867,
+Unknown Race,,,176235,,156771,,23087,
+Hispanic or Latino,,,394089,,343487,,26374,
+Not Hispanic or Latino,,,3345961,,3091994,,246897,
+Unknown Ethnicity,,,211219,,176426,,22813,
 0-9,,,0,,0,,0,,,,0,,0
 10-19,,,435674,,390179,,8271,,443945,,398450
 20-29,,,514184,,450632,,40688,,554872,,491320
@@ -65,4 +65,4 @@ Unknown Ethnicity,,,211335,,176441,,22824,
 70-79,,,387254,,361118,,22353,,409607,,383471
 80+,,,191384,,176862,,8201,,199585,,185063
 Not Available,,,8000,,8000,,0,,8000,,0
-Federal Entities,,,131109,,114656,,16945,,148054,,131601
+Federal Entities,,,131113,,114667,,16947,,148060,,131614

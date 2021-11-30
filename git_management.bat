@@ -1,4 +1,4 @@
-@ECHO OFF
+REM @ECHO OFF
 D:
 cd D:\Scripts\COVID19_Vaccine\CSVs\FromSQL\FirstSecondSingleDose
 call git add *

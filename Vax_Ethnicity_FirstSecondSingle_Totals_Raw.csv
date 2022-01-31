@@ -1,2 +1,5 @@
 Ethnicity,FirstDose,SecondDose,SingleDose,CombinedTotalDoses,FullyVaccinated
-Unknown Ethnicity,4630479,4055722,332119,9018320,4387841
+Hispanic or Latino,478674,396768,28531,903973,425299
+Not Hispanic or Latino,3826357,3402631,264128,7493116,3666759
+Unknown Ethnicity,184681,134430,18000,337111,152430
+Federal Entities,142612,123407,21497,287516,144904
